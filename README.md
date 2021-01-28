@@ -1,2 +1,4 @@
 # aurora
-a cool chatbot/moderation bot for discord made with google dialogflow api
+old hackathon project
+
+dialogflow chatbot and moderation bot for discord
